@@ -2,7 +2,11 @@
 <h1 align="center">Hello, I'm embed.</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=embedvr" alt="embedvr" /> </p>
 
-- I'm working on [Dispatch](https://addi.lol/dp) & [Hydrogen](https://hydrogen.run).
+- I write tweets @ [Fly.io](https://fly.io)
+
+- I work on lots of things for the Spotify Car Thing
+
+- Currently, I am working on [Terbium](https://terbium.app), [thingify.tools](https://thingify.tools) & [Oxygen](https://oxygen.rip)
 
 - My current stack is **[Cloudflare Workers](https://workers.cloudflare.com/) / [Pages](https://pages.cloudflare.com/)**, **[SvelteKit](https://kit.svelte.dev/)**, **[tRPC](https://trpc.io/)**, **[Cloudflare D1](https://www.cloudflare.com/developer-platform/d1/)**, **[DrizzleORM](https://orm.drizzle.team/)**, **[zod](https://zod.dev/)**.
 
