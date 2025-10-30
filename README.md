@@ -2,11 +2,11 @@
 <h1 align="center">Hello, I'm addison</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=embedvr" alt="embedvr" /> </p>
 
-- I work on lots of things for the Spotify Car Thing
+- Superbly autistic about emails
 
-- Currently, I am working on [Terbium](https://terbium.app), [thingify.tools](https://thingify.tools) & [Oxygen](https://oxygen.rip)
+- Currently, I am working on [Zephyra](https://zpr.ax) & [Oxygen](https://oxygen.rip)
 
-- My current stack is **[Cloudflare Workers](https://workers.cloudflare.com/) / [Pages](https://pages.cloudflare.com/)**, **[SvelteKit](https://kit.svelte.dev/)**, **[tRPC](https://trpc.io/)**, **[Cloudflare D1](https://www.cloudflare.com/developer-platform/d1/)**, **[DrizzleORM](https://orm.drizzle.team/)**, **[zod](https://zod.dev/)**.
+- My current stack is **[Cloudflare Workers](https://workers.cloudflare.com/) / [Pages](https://pages.cloudflare.com/)**, **[SvelteKit](https://svelte.dev/)**, **[Cloudflare D1](https://www.cloudflare.com/developer-platform/d1/)**, **[DrizzleORM](https://orm.drizzle.team/)**, **[ArkType](https://arktype.io/)**.
 
 - Contact me via Discord (preferred, embd) or [Email](mailto:me@addi.lol)
 
